@@ -1,4 +1,4 @@
-![logo](../smsbomber/Images/IMG_20200802_005449.jpg)
+![logo](https://github.com/sillytuktuk2020/smsbomber/blob/master/IMG_20200802_005449.jpg)
 <p align="left">
 <a href="#"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN%20-INDIA-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
